@@ -16,3 +16,9 @@ xcuserdata/
 # Dart stuff.
 /tool/.dart_tool/
 /tool/.packages
+
+.classpath
+.factorypath
+.gradle/
+.project
+.settings/
